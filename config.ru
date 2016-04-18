@@ -1,7 +1,6 @@
 require 'digest'
 require 'active_support'
 require 'active_support/core_ext'
-require 'pry'
 require 'uri'
 require 'cgi'
 require 'openssl'
